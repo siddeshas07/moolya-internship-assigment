@@ -4,8 +4,6 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-                <!-- <li class="nav-item"><a href="#" class="nav-link"></a></li>
-                <li class="nav-item"><a href="#" class="nav-link"></a></li> -->
                 <li class="nav-item"><a href="Blockers.html" class="nav-link">Blockers</a></li>
                 <li class="nav-item"><a href="feedback.html" class="nav-link">Feedback</a></li>
             </ul>
