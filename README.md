@@ -1,5 +1,8 @@
 # moolya-internship-assigment
 ===================================================================================================================================================================================
+![miniprj (2)](https://user-images.githubusercontent.com/58839558/225400339-6483212f-4390-42c3-8723-29ff9e1d54b7.jpeg)
+![mi![miniprj](https://user-images.githubusercontent.com/58839558/225400404-e113c0d9-1700-40b5-ba8b-cdf3f1d59bbd.jpeg)
+niprj (1)](https://user-images.githubusercontent.com/58839558/225400349-9bc2c000-7ed0-4470-877f-cd1906129c4c.jpeg)
 
 project is live @@@@@@@@@@@@@@@   https://moolyainternshipphp.herokuapp.com/index.php
 ![22 06 2021_20 08 58_REC](https://user-images.githubusercontent.com/58839558/225396669-9348c26d-1ba7-48f8-a0d8-336a71814025.png)![22 06 2021_19 55 49_REC](https://user-images.githubusercontent.com/58839558/225396674-359c360b-1afa-4930-90d8-ca5119d93227.png)
